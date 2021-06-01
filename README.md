@@ -1,0 +1,3 @@
+- 👋 Hi, My name is Rik
+- 🌱 Media and application developing 
+- 📫 riksmeets02@gmail.com
